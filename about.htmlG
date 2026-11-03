@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us - WWII History Archive</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="index.html">Home</a> | 
+            <a href="about.html">About</a> | 
+            <a href="contact.html">Contact</a> | 
+            <a href="privacy-policy.html">Privacy Policy</a>
+        </nav>
+        <h1>About This Archive</h1>
+    </header>
+    <main>
+        <h2>Our Mission</h2>
+        <p>The WWII History Archive is an independent educational website dedicated to exploring and documenting the technical, logistical, and strategic history of the Second World War. Our goal is to provide objective, well-researched historical breakdowns for students, historians, and enthusiasts alike.</p>
+        <p>All articles are curated to offer deep insights into the mechanics, innovations, and critical turning points of the global conflict.</p>
+    </main>
+    <footer>
+        <p>&copy; 2026 WWII History Archive. <a href="terms.html">Terms & Disclaimer</a></p>
+    </footer>
+</body>
+</html>
+

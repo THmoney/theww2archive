@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms & Disclaimer - WWII History Archive</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="index.html">Home</a> | 
+            <a href="about.html">About</a> | 
+            <a href="contact.html">Contact</a> | 
+            <a href="privacy-policy.html">Privacy Policy</a>
+        </nav>
+        <h1>Terms & Disclaimer</h1>
+    </header>
+    <main>
+        <h2>Website Terms of Use</h2>
+        <p>By accessing the WWII History Archive, you agree to abide by these terms of use. All historical texts, formatting, and analyses published on this site are intended for educational and informational purposes.</p>
+        <h2>Disclaimer</h2>
+        <p>While we strive for historical accuracy, the content is provided "as is" without warranties of any kind. We are not liable for any errors or omissions in the historical summaries provided.</p>
+    </main>
+    <footer>
+        <p>&copy; 2026 WWII History Archive. <a href="index.html">Home</a></p>
+    </footer>
+</body>
+</html>
+

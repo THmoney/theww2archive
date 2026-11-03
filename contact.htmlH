@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us - WWII History Archive</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="index.html">Home</a> | 
+            <a href="about.html">About</a> | 
+            <a href="contact.html">Contact</a> | 
+            <a href="privacy-policy.html">Privacy Policy</a>
+        </nav>
+        <h1>Contact Us</h1>
+    </header>
+    <main>
+        <h2>Get in Touch</h2>
+        <p>If you have questions, corrections, or feedback regarding any of our historical articles, please reach out to us via email:</p>
+        <p><strong>Email:</strong> contact@wwii-history-archive.example (Replace with your actual contact email)</p>
+    </main>
+    <footer>
+        <p>&copy; 2026 WWII History Archive. <a href="terms.html">Terms & Disclaimer</a></p>
+    </footer>
+</body>
+</html>
+
