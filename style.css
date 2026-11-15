@@ -73,5 +73,29 @@ footer {
     font-size: 0.95rem;
     color: #6c757d;
     border-top: 1px solid #e9ecef;
+}/* Archival Image Styling */
+.archive-figure {
+    margin: 24px auto;
+    text-align: center;
+    background: #f9f9f9;
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    max-width: 680px;
+}
+
+.archive-figure img {
+    width: 100%;
+    height: auto;
+    display: block;
+    filter: grayscale(100%) contrast(105%);
+    border: 1px solid #ccc;
+}
+
+.archive-figure figcaption {
+    font-size: 0.85rem;
+    color: #555;
+    margin-top: 10px;
+    font-style: italic;
 }
 
